@@ -1,2 +1,3 @@
-\mainpage # Autodocumentation
+\mainpage 
+# Autodocumentation
 это Readme проекта
